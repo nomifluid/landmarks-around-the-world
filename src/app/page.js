@@ -8,7 +8,7 @@ export default function Home() {
 
   return (
     <div>
-      <div class="bg-white dark:bg-gray-800 overflow-hidden relative lg:flex lg:items-center shadow">
+      <div class="bg-white overflow-hidden relative lg:flex lg:items-center shadow">
         <main>
           <div class="w-full py-12">
             <h2>Objevte slavné památky po celém světě</h2>
@@ -69,7 +69,7 @@ export default function Home() {
           ))}
         </div>
 
-        <section class="sm:rounded-lg shadow mt-12 max-w-screen-xl px-4 py-12 mx-auto bg-green-500 dark:bg-gray-800 sm:py-16 sm:px-6 lg:px-8 lg:py-20">
+        <section class="sm:rounded-lg shadow mt-12 max-w-screen-xl px-4 py-12 mx-auto bg-green-500 sm:py-16 sm:px-6 lg:px-8 lg:py-20">
           <div class="max-w-4xl mx-auto text-center">
             <h3 class="text-white">
               Nejrozsáhlejší kolekce historických památek Evropy na jednom místě
