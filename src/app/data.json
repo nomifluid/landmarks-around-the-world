@@ -1,0 +1,540 @@
+{
+    "regions": [
+        {
+            "name": "Toskánsko",
+            "country": "Itálie",
+            "desc": "Toskánsko je oblast známá svou úchvatnou krajinou, bohatou kulturní historií a vynikající kuchyní. Je domovem mnoha památek, včetně:",
+            "img": "https://i.imgur.com/xHpd2w5.jpg",
+            "img-sm": "https://i.imgur.com/X2A0z9E.jpg"
+        },
+        {
+            "name": "Provence",
+            "country": "Francie",
+            "desc": "Provence je region bohatý na slunečné krajiny, olivové háje a levandulová pole. Nabízí také mnoho zajímavých památek, například:",
+            "img": "https://i.imgur.com/djdWNyX.jpg",
+            "img-sm": "https://i.imgur.com/zKJbr5P.jpg"
+        },
+        {
+            "name": "Kréta",
+            "country": "Řecko",
+            "desc": "Kréta je největší řecký ostrov s bohatou historií, malebnými plážemi a tradičními vesnicemi. Mezi její známé památky patří:",
+            "img": "https://i.imgur.com/OjHKxaZ.jpg",
+            "img-sm": "https://i.imgur.com/OCUiD6n.jpg"
+        },
+        {
+            "name": "Bavorsko",
+            "country": "Německo",
+            "desc": "Bavorsko je známé svými malebnými vesnicemi, horskými krajinami a hradními pevnostmi. Mezi jeho významné památky patří:",
+            "img": "https://i.imgur.com/b6BPY0E.jpg",
+            "img-sm": "https://i.imgur.com/QJmNWUK.jpg"
+        },
+        {
+            "name": "Skotské vysoké země",
+            "country": "Spojené království",
+            "desc": "Skotské vysoké země jsou proslulé svou divokou a majestátní krajinou, hradními ruinami a skotskými tradicemi. Některé z jejich významných památek jsou:",
+            "img": "https://i.imgur.com/diOJVR8.jpg",
+            "img-sm": "https://i.imgur.com/H0M45IB.jpg"
+        }
+    ],
+    "landmarks": [
+        {
+            "name": "Eiffelova věž",
+            "city": "Paříž",
+            "region": "Francie",
+            "desc_short": "Symbol Paříže a jedna z nejznámějších stavby na světě, Eiffelova věž nabízí úchvatný výhled na město.",
+            "desc": "Eiffelova věž, postavená v roce 1889, byla původně navržena jako dočasná stavba pro Světovou výstavu. Dnes je ikonickou památkou Francie a turistickou atrakcí.",
+            "year": "1889"
+        },
+        {
+            "name": "Koloseum",
+            "city": "Řím",
+            "region": "Itálie",
+            "desc_short": "Koloseum je starověký amfiteátr, který sloužil pro gladiátorské zápasy a divadelní představení.",
+            "desc": "Postavené mezi lety 70 a 80 n. l., Koloseum je největším amfiteátrem, který kdy existoval. Je to významná památka antického Říma.",
+            "year": "70-80 n. l."
+        },
+        {
+            "name": "Akropolis",
+            "city": "Athény",
+            "region": "Řecko",
+            "desc_short": "Akropolis je starověká pevnost s nejznámější stavbou, Partenonem.",
+            "desc": "Postavená ve 5. století př. n. l., Akropolis je symbolickým střediskem athénské civilizace a poskytuje úžasný pohled na město.",
+            "year": "5. století př. n. l."
+        },
+        {
+            "name": "Královský palác",
+            "city": "Madrid",
+            "region": "Španělsko",
+            "desc_short": "Královský palác je monumentální rezidence španělských králů.",
+            "desc": "Palác byl postaven v 18. století a je známý svou architekturou a rozlohou. Navštěvování paláce je oblíbenou turistickou atrakcí.",
+            "year": "18. století"
+        },
+        {
+            "name": "Parlament",
+            "city": "Budapešť",
+            "region": "Maďarsko",
+            "desc_short": "Budapešťský parlament je největší budova v Maďarsku a sídlo národního shromáždění.",
+            "desc": "Postavený v neogotickém stylu na břehu Dunaje, parlament je symbolem maďarského státu a významnou památkou Budapešti.",
+            "year": "1885-1904"
+        },
+        {
+            "name": "Big Ben",
+            "city": "Londýn",
+            "region": "Spojené království",
+            "desc_short": "Big Ben je ikonická hodinová věž, která se nachází na budově britského parlamentu.",
+            "desc": "Postavený v gotickém stylu v 19. století, Big Ben je jednou z nejznámějších turistických atrakcí v Londýně a symbolizuje britskou historii a kulturu.",
+            "year": "1859-1861"
+        },
+        {
+            "name": "Panteón",
+            "city": "Řím",
+            "region": "Itálie",
+            "desc_short": "Panteón je antický chrám, který je známý pro svou ikonickou kupoli.",
+            "desc": "Postavený v 2. století, Panteón je jedním z nejlépe zachovaných antických staveb na světě a slouží jako mauzoleum a katolický kostel.",
+            "year": "118-128 n. l."
+        },
+        {
+            "name": "Hrad Karlštejn",
+            "city": "Karlštejn",
+            "region": "Česká republika",
+            "desc_short": "Hrad Karlštejn je gotický hrad, který sloužil jako královská rezidence a úložiště cenností.",
+            "desc": "Postavený v 14. století císařem Karlem IV., hrad Karlštejn je jedním z nejvýznamnějších českých hradů a turistickou atrakcí s krásnými freskami a královskými komnatami.",
+            "year": "1348-1365"
+        },
+        {
+            "name": "Alhambra",
+            "city": "Granada",
+            "region": "Španělsko",
+            "desc_short": "Alhambra je pevnost a palácový komplex, který je známý pro svou maurickou architekturu.",
+            "desc": "Postavená v 13. století, Alhambra je jedním z nejvýznamnějších příkladů islámského umění a architektury v Evropě a nabízí úchvatné výhledy na město Granada.",
+            "year": "13. století"
+        },
+        {
+            "name": "Vatikán",
+            "city": "Vatikán",
+            "desc_short": "Vatikán je sídlo papeže a stát nezávislý na Itálii.",
+            "desc": "Svatý Vatikán je nejmenší stát na světě a také kulturní a náboženské centrum katolické církve. Zahrnuje baziliku sv. Petra, Sixtinskou kapli a Vatikánská muzea.",
+            "year": "1929"
+        },
+        {
+            "name": "Braniborská brána",
+            "city": "Berlín",
+            "region": "Německo",
+            "desc_short": "Braniborská brána je ikonická historická brána, která se stala symbolem sjednocení Německa.",
+            "desc": "Postavená v 18. století v pruském stylu, Braniborská brána je jedním z nejznámějších symbolů Berlína a důležitou památkou německé historie.",
+            "year": "1788-1791"
+        },
+        {
+            "name": "Parthenon",
+            "city": "Athény",
+            "region": "Řecko",
+            "desc_short": "Parthenon je antický chrám zasvěcený bohyni Athéně, který je známý pro svou klasicistní architekturu.",
+            "desc": "Postavený ve 5. století př. n. l., Parthenon je vrcholným příkladem řeckého klasicismu a považuje se za symbol antické řecké civilizace.",
+            "year": "447-438 př. n. l."
+        },
+        {
+            "name": "Louvre",
+            "city": "Paříž",
+            "region": "Francie",
+            "desc_short": "Louvre je největší muzeum na světě, které je domovem mnoha uměleckých a historických pokladů.",
+            "desc": "Nacházející se v bývalém královském paláci, Louvre je světoznámé umělecké muzeum, které obsahuje slavná díla, jako je Mona Lisa a Venuše z Milo.",
+            "year": "12. století (původní palác),1989 (otevření jako muzeum)"
+        },
+        {
+            "name": "Velký královský palác",
+            "city": "Stockholm",
+            "region": "Švédsko",
+            "desc_short": "Velký královský palác je rezidence švédské královské rodiny a také místo oficiálních ceremonií.",
+            "desc": "Postavený v barokním a rokokovém stylu, Velký královský palác je jednou z největších královských rezidencí na světě a obsahuje mnoho muzeí a krásných sálů.",
+            "year": "1697-1760"
+        },
+        {
+            "name": "Akvadukt v Segovii",
+            "city": "Segovia",
+            "region": "Španělsko",
+            "desc_short": "Akvadukt v Segovii je antický inženýrský zázrak, který sloužil k přivádění vody do města.",
+            "desc": "Postavený v 1. století, akvadukt v Segovii je jedním z nejzachovalejších římských akvaduktů na světě a představuje důležitý historický a architektonický prvek.",
+            "year": "1. století n. l."
+        },
+        {
+            "name": "Versailleský palác",
+            "city": "Versailles",
+            "region": "Francie",
+            "desc_short": "Versailleský palác je monumentální rezidence francouzských králů a symbol absolutní monarchie.",
+            "desc": "Postavený v 17. století, Versailleský palác je známý svými rozsáhlými zahradami, luxusními interiéry a bohatou historií. Je považován za jedno z nejvýznamnějších uměleckých a historických míst ve Francii.",
+            "year": "1624-1710"
+        },
+        {
+            "name": "Florentská katedrála",
+            "city": "Florencie",
+            "region": "Itálie",
+            "desc_short": "Florentská katedrála, známá také jako Duomo, je majestátní gotický kostel s výraznou kupolí.",
+            "desc": "Postavená ve 14. a 15. století, Florentská katedrála je jedním z nejvýznamnějších sakrálních staveb v Itálii a domovem několika uměleckých pokladů, včetně Brunelleschiho kupole.",
+            "year": "1296-1436"
+        },
+        {
+            "name": "Hofburg",
+            "city": "Vídeň",
+            "region": "Rakousko",
+            "desc_short": "Hofburg je bývalý císařský palác, který je nyní sídlem rakouského prezidenta a mnoha muzeí.",
+            "desc": "Postavený v různých historických stylech, Hofburg je rozlehlý komplex budov, který představuje politickou, historickou a kulturní dědictví Rakouska. Obsahuje i slavnou Španělskou jízdárnu.",
+            "year": "13. století-1913"
+        },
+        {
+            "name": "Dubrovníké hradby",
+            "city": "Dubrovník",
+            "region": "Chorvatsko",
+            "desc_short": "Dubrovníké hradby jsou středověké opevnění kolem starého města Dubrovník, které poskytovalo ochranu před útoky.",
+            "desc": "Postavené ve 13. století, Dubrovníké hradby jsou považovány za jedny z nejimpozantnějších a nejlépe zachovaných opevnění na Jadranu. Poskytují úchvatné výhledy na město a moře.",
+            "year": "13.-16. století"
+        },
+        {
+            "name": "Hermitage",
+            "city": "Petrohrad",
+            "region": "Rusko",
+            "desc_short": "Hermitage je jedno z největších a nejprestižnějších uměleckých muzeí na světě.",
+            "desc": "Nacházející se v bývalém zimním paláci, Hermitage obsahuje více než 3 miliony uměleckých děl, včetně děl slavných umělců jako je Leonardo da Vinci, Rembrandt a Van Gogh.",
+            "year": "1764"
+        },
+        {
+            "name": "Eiffelova věž",
+            "city": "Paříž",
+            "region": "Francie",
+            "desc_short": "Eiffelova věž je ikonická železná věž, která se stala symbolem Paříže a Francie.",
+            "desc": "Postavená v 19. století, Eiffelova věž je jednou z nejnavštěvovanějších turistických atrakcí na světě. Nabízí úchvatné výhledy na město a je mistrovským dílem inženýra Gustava Eiffela.",
+            "year": "1887-1889"
+        },
+        {
+            "name": "Koloseum",
+            "city": "Řím",
+            "region": "Itálie",
+            "desc_short": "Koloseum je antický amfiteátr, který sloužil pro gladiátorské zápasy a další veřejné události.",
+            "desc": "Postavené ve 1. století n. l., Koloseum je jednou z nejznámějších a nejvýznamnějších římských staveb. Jeho monumentální architektura a historický význam jej činí jedním z nejnavštěvovanějších památek v Římě.",
+            "year": "70-80 n. l."
+        },
+        {
+            "name": "Acropolis",
+            "city": "Athény",
+            "region": "Řecko",
+            "desc_short": "Akropole je starobylý komplex, který se nachází na vrcholku kopce a obsahuje několik významných antických staveb.",
+            "desc": "Postavená v 5. století př. n. l., Akropole je symbolem antického Řecka a obsahuje stavby jako Parthenon, Erechtheion a Propyleje. Je považována za jedno z nejvýznamnějších archeologických nalezišť na světě.",
+            "year": "5. století př. n. l."
+        },
+        {
+            "name": "Most svatého Karla",
+            "city": "Praha",
+            "region": "Česká republika",
+            "desc_short": "Most svatého Karla je historický kamenný most, který spojuje Staré Město s Malou Stranou v Praze.",
+            "desc": "Postavený ve 14. století, Most svatého Karla je jedním z nejznámějších symbolů Prahy. S jeho gotickou architekturou, sochařskou výzdobou a výhledy na Vltavu a Pražský hrad je oblíbenou turistickou atrakcí.",
+            "year": "1357-1402"
+        },
+        {
+            "name": "Tower Bridge",
+            "city": "Londýn",
+            "region": "Spojené království",
+            "desc_short": "Tower Bridge je ikonický most, který překonává řeku Temži a slouží pro dopravu a procházky.",
+            "desc": "Postavený v 19. století, Tower Bridge je jedním z nejslavnějších mostů na světě. Jeho charakteristická kombinace gotické a viktoriánské architektury jej činí výrazným symbolem Londýna.",
+            "year": "1886-1894"
+        },
+        {
+            "name": "Vatikánské muzea",
+            "city": "Vatikán",
+            "desc_short": "Vatikánská muzea jsou sbírkou uměleckých děl a historických artefaktů, které se nachází v prostorách Vatikánu.",
+            "desc": "S rozsáhlými sbírkami od antických soch a renesančních maleb po papežské poklady, Vatikánská muzea jsou jednou z nejvýznamnějších kulturních institucí na světě. Navštěvovány jsou především kvůli Sixtinské kapli s freskami od Michelangela.",
+            "year": "1506"
+        },
+        {
+            "name": "Alhambra",
+            "city": "Granada",
+            "region": "Španělsko",
+            "desc_short": "Alhambra je historický palácový komplex s pevností, který je významným příkladem islámské architektury a umění.",
+            "desc": "Postavená ve 13. a 14. století, Alhambra je považována za vrcholný příklad maurské architektury a sloužila jako sídlo muslimských vládců. Je známá pro své zdobené paláce, zahrady a výhledy na město Granadu.",
+            "year": "13.-14. století"
+        },
+        {
+            "name": "Herkulova věž",
+            "city": "Dubrovník",
+            "region": "Chorvatsko",
+            "desc_short": "Herkulova věž je historická věž, která se nachází na hradbách starého města Dubrovníku.",
+            "desc": "Postavená ve 15. století, Herkulova věž je jednou z mnoha věží, které chrání hradby Dubrovníku. Poskytuje úchvatné výhledy na město a představuje důležitou součást městského opevnění.",
+            "year": "15. století"
+        },
+        {
+            "name": "Hagia Sofia",
+            "city": "Istanbul",
+            "region": "Turecko",
+            "desc_short": "Hagia Sofia je historická stavba, která byla nejprve kostelem, poté mešitou a nyní je muzeem.",
+            "desc": "Postavená ve 6. století, Hagia Sofia je architektonickým skvostem, který spojuje prvky byzantského, islámského a osmanského umění. Je známá pro svou obrovskou kupoli a bohatou historii.",
+            "year": "532-537"
+        },
+        {
+            "name": "Pláštěnice",
+            "city": "Edinburgh",
+            "region": "Skotsko",
+            "desc_short": "Pláštěnice je hrad, který se nachází na skalnatém vrcholu nad městem Edinburghem.",
+            "desc": "Postavený ve 12. století, Pláštěnice je ikonickým symbolem Skotska a představuje jedno z nejznámějších hradních komplexů v Evropě. Nabízí panoramatické výhledy na město a hostí různé kulturní akce.",
+            "year": "12. století"
+        },
+        {
+            "name": "Louvre",
+            "city": "Paříž",
+            "region": "Francie",
+            "desc_short": "Louvre je světoznámé muzeum, které se nachází v Paříži a je domovem mnoha uměleckých pokladů.",
+            "desc": "Založený v 18. století, Louvre je jedním z největších a nejvýznamnějších muzeí na světě. Nabízí rozsáhlé sbírky starožitností, soch, obrazů a dalších uměleckých děl, včetně slavného obrazu Mona Lisa od Leonarda da Vinciho.",
+            "year": "1190-1202"
+        },
+        {
+            "name": "Brandenburská brána",
+            "city": "Berlín",
+            "region": "Německo",
+            "desc_short": "Brandenburská brána je historická brána, která sloužila jako symbol dělení a opětného sjednocení Německa.",
+            "desc": "Postavená ve 18. století, Brandenburská brána je významnou památkou berlínské historie. Tvoří centrální bod proslulé třídy Unter den Linden a je symbolem svobody a sjednocení.",
+            "year": "1788-1791"
+        },
+        {
+            "name": "Parthenon",
+            "city": "Athény",
+            "region": "Řecko",
+            "desc_short": "Parthenon je slavný chrám, který se nachází na Akropoli v Athénách.",
+            "desc": "Postavený v 5. století př. n. l., Parthenon je jedním z nejslavnějších a nejvýznamnějších antických řeckých chrámů. Jeho harmonická architektura a sochařská výzdoba z něj činí ikonu klasicistního umění.",
+            "year": "447-438 př. n. l."
+        },
+        {
+            "name": "Trevírské fontány",
+            "city": "Řím",
+            "region": "Itálie",
+            "desc_short": "Trevírské fontány jsou souborem impozantních fontán, které jsou jednou z nejznámějších památek v Římě.",
+            "desc": "Postavené ve 18. století, Trevírské fontány jsou mistrovským dílem barokního umění. Největší z fontán, Fontána di Trevi, je známá svými kaskádami vody a je oblíbeným místem pro házení mincí do fontány.",
+            "year": "1732-1762"
+        },
+        {
+            "name": "Akvadukt Pont du Gard",
+            "city": "Vers-Pont-du-Gard",
+            "region": "Francie",
+            "desc_short": "Pont du Gard je antický akvadukt, který sloužil k přivádění vody do města Nîmes.",
+            "desc": "Postavený ve 1. století n. l., Pont du Gard je úžasným inženýrským dílem a svědectvím o technických schopnostech Římanů. Tvoří majestátní kamenný most a patří mezi nejlépe dochované akvadukty na světě.",
+            "year": "40-60 n. l."
+        },
+        {
+            "name": "Katedrála Notre-Dame",
+            "city": "Paříž",
+            "region": "Francie",
+            "desc_short": "Katedrála Notre-Dame je slavná gotická katedrála, která je známá svou impozantní architekturou a bohatou historií.",
+            "desc": "Postavená ve 12. a 13. století, Katedrála Notre-Dame je jednou z nejvýznamnějších sakrálních staveb na světě. Je považována za mistrovské dílo gotické architektury a je známá například svými vitrážemi a sochami.",
+            "year": "1163-1345"
+        },
+        {
+            "name": "Sagrada Família",
+            "city": "Barcelona",
+            "region": "Španělsko",
+            "desc_short": "Sagrada Família je unikátní neokatolický kostel, který je známý svou jedinečnou architekturou a stále probíhající výstavbou.",
+            "desc": "Výstavba Sagrada Família začala v roce 1882 a dosud není dokončena. Kostel je mistrovským dílem architekta Antoni Gaudího a kombinuje různé architektonické styly. Je jednou z nejvýznamnějších turistických atrakcí v Barceloně.",
+            "year": "1882"
+        },
+        {
+            "name": "Petra",
+            "city": "Jordánsko",
+            "desc_short": "Petra je starobylé archeologické naleziště, které je známé svými vytesanými skalními strukturami a krásnou kamennou architekturou.",
+            "desc": "Petra, často nazývaná \"Růžové město\", byla hlavním městem Nabatejců a je považována za jedno z největších archeologických pokladů na světě. Její jedinečné skalní fasády a rozsáhlý systém vytesaných jeskyní přitahují návštěvníky z celého světa.",
+            "year": "4. století př. n. l."
+        },
+        {
+            "name": "Pařížský Louvre",
+            "city": "Paříž",
+            "region": "Francie",
+            "desc_short": "Pařížský Louvre je jedním z největších a nejznámějších muzeí na světě, které ukrývá bohatou sbírku uměleckých děl z různých historických období.",
+            "desc": "Louvre, kdysi královský palác, se stal muzeem v roce 1793 a nyní je domovem mnoha vzácných artefaktů, soch, obrazů a dalších uměleckých děl. Mezi jeho nejslavnější exponáty patří Mona Lisa, Venuše z Milo a Vítězný samotář.",
+            "year": "12. století"
+        },
+        {
+            "name": "Kapadocké skalní útvary",
+            "city": "Turecko",
+            "desc_short": "Kapadocké skalní útvary jsou přírodní geologické útvary ve střední Anatolii, které zahrnují unikátní skalní sloupy, kužele, jeskyně a skalní města.",
+            "desc": "Kapadokie je známá svými křehkými skalními útvary, které byly vytvořeny erozí a sopečnou činností. Tyto útvary poskytly útočiště a byly vytesány do jeskyní a skalních měst obyvateli v minulosti. Dnes jsou tímto regionem fascinováni turisté z celého světa.",
+            "year": "Přírodní útvary"
+        },
+        {
+            "name": "Vatikánské muzea",
+            "city": "Vatikán",
+            "desc_short": "Vatikánská muzea jsou umělecká muzea, která se nacházejí v Papežském paláci ve Vatikánu. Jsou domovem rozsáhlých sbírek uměleckých děl a historických artefaktů.",
+            "desc": "Vatikánská muzea jsou jednou z největších uměleckých sbírek na světě. Zahrnují díla od antiky až po renesanci a baroko. Mezi nejvýznamnější exponáty patří Sixtinská kaple s freskami Michelangela a Raffaelovy Stanze.",
+            "year": "1503"
+        },
+        {
+            "name": "Alhambra",
+            "city": "Granada",
+            "region": "Španělsko",
+            "desc_short": "Alhambra je arabský palácový komplex, který se nachází v Granadě a je znám svou nádhernou architekturou a zahradami.",
+            "desc": "Alhambra byla postavena v 13. a 14. století jako sídlo maurůských vládců. Je považována za jedno z nejvýznamnějších světových dědictví UNESCO a je oblíbenou turistickou atrakcí díky svým zdobeným palácům, arabeskovým vzorům a rozlehlým zahradám.",
+            "year": "13.-14. století"
+        },
+        {
+            "name": "Katedrála Santa Maria del Fiore",
+            "city": "Florencie",
+            "region": "Toskánsko",
+            "desc_short": "Katedrála Santa Maria del Fiore, známá také jako Florentský dóm, je ikonickou katedrálou s proslulou kopulí a zvonice.",
+            "desc": "Katedrála byla postavena v gotickém stylu a je jedním z nejvýznamnějších symbolů Florencie. Je známá svým impozantním interiérem, freskami a nádhernými výhledy na město z její kopule.",
+            "year": "1296-1436"
+        },
+        {
+            "name": "Galerie Uffizi",
+            "city": "Florencie",
+            "region": "Toskánsko",
+            "desc_short": "Galerie Uffizi je jedno z nejvýznamnějších uměleckých muzeí na světě, které hostí bohatou sbírku italského umění.",
+            "desc": "Muzeum se nachází v paláci Uffizi a obsahuje umělecká díla od renesance po baroko. Mezi jeho nejvýznamnější exponáty patří Botticelliho Obraz Narodení Venuše a Michelangelova socha David.",
+            "year": "1560"
+        },
+        {
+            "name": "Městský most Ponte Vecchio",
+            "city": "Florencie",
+            "region": "Toskánsko",
+            "desc_short": "Ponte Vecchio je nejslavnější most ve Florencii, který je známý svými obchody a tradičními řemeslnými dílnami.",
+            "desc": "Most překlenuje řeku Arno a je jedinečný svými obchody, které se táhnou po celé jeho délce. Býval také domovem řemeslníků, zejména zlatníků. Nabízí krásný výhled na řeku a okolní historickou čtvrť.",
+            "year": "1345"
+        },
+        {
+            "name": "Katedrála Pisa",
+            "city": "Pisa",
+            "region": "Toskánsko",
+            "desc_short": "Katedrála Pisa, známá také jako Katedrála svatého Jiří, je zářivý příklad románské architektury a nachází se na slavném náměstí Campo dei Miracoli.",
+            "desc": "Katedrála je obklopena dalšími památkami, jako je Skloněná věž, Křtitelnice a Camposanto Monumentale. Její nádherné mramorové fasády a interiér s bohatou výzdobou jsou jedinečné.",
+            "year": "1063-1118"
+        },
+        {
+            "name": "Skloněná věž",
+            "city": "Pisa",
+            "region": "Toskánsko",
+            "desc_short": "Slavná Skloněná věž je ikonou města Pisa a jednou z nejznámějších památek na světě.",
+            "desc": "Věž byla postavena jako zvonice katedrály Pisa a získala svou charakteristickou sklonenou polohu kvůli nestabilitě půdy. I přesto si věž zachovává svou nádhernou architekturu a návštěvníci mohou vystoupat na vrchol, aby si užili úchvatný výhled.",
+            "year": "1173-1372"
+        },
+        {
+            "name": "Papežský palác",
+            "city": "Avignon",
+            "region": "Provence",
+            "desc_short": "Papežský palác je impozantní středověká pevnost, která sloužila jako rezidence papežů během jejich pobytu v Avignonu.",
+            "desc": "Palác je známý svým velkolepým architektonickým stylem a bohatou historií. Má rozlehlé nádvoří, věže a nádherné fresky, které ukazují sílu a vliv papežství v této oblasti.",
+            "year": "1335."
+        },
+        {
+            "name": "Arleský amfiteátr",
+            "city": "Arles",
+            "region": "Provence",
+            "desc_short": "Arleský amfiteátr je antický amfiteátr, který sloužil jako místo pro gladiátorské hry a další veřejné události.",
+            "desc": "Tento dobře zachovalý amfiteátr je považován za jedno z největších antických staveb ve Francii. Je to ikonická památka, která přináší návštěvníkům nádherný pohled do minulosti a nabízí možnost prozkoumat historické pozadí gladiátorských zápasů.",
+            "year": "90 n. l."
+        },
+        {
+            "name": "Chanský přístav",
+            "city": "Chania",
+            "region": "Provence",
+            "desc_short": "Chanský přístav je malebný přístavní městský komplex, který se nachází na severozápadním pobřeží Kréty.",
+            "desc": "Tento malebný přístav je plný života a nabízí úchvatné výhledy na moře, starobylé stavby a příjemné restaurace. Návštěvníci si mohou prohlédnout starobylý maják, procházet se úzkými uličkami plnými obchodů a ochutnat místní speciality.",
+            "year": ""
+        },
+        {
+            "name": "Rethymnská pevnost",
+            "city": "Rethymno",
+            "region": "Provence",
+            "desc_short": "Rethymnská pevnost je středověká pevnost, která se tyčí nad městem Rethymno na Krétě.",
+            "desc": "Tato pevnost byla postavena Benátčany a nabízí nádherné výhledy na město a moře. Je to působivá struktura s mohutnými hradbami, věžemi a branami, která sloužila jako obranná pevnost až do moderních dob.",
+            "year": "16. století"
+        },
+        {
+            "name": "Edinburghský hrad",
+            "city": "Edinburgh",
+            "region": "Highlands",
+            "desc_short": "Edinburghský hrad je ikonická pevnost, která dominuje panoramatu města Edinburgh a je jednou z nejnavštěvovanějších památek ve Skotsku.",
+            "desc": "Hrad je bohatý na historii a sloužil jako královská rezidence, vojenská pevnost a úložiště korunovačních klenotů. Návštěvníci mohou prozkoumat jeho množství paláců, kaplí a obranných staveb, stejně jako užít si úchvatné výhledy na město.",
+            "year": "12. století"
+        },
+        {
+            "name": "Loch Ness",
+            "city": "Inverness",
+            "region": "Highlands",
+            "desc_short": "Loch Ness je největší sladkovodní jezero ve Skotsku a je světoznámé díky legendě o Nessiem, skotském mořském příšeru.",
+            "desc": "Toto tajemné jezero přitahuje návštěvníky z celého světa kvůli svému krásnému okolí a fascinující historii. Můžete se vydat na prohlídku jezera, navštívit hrad Urquhart, který se nachází na jeho břehu, a možná dokonce zaznamenat \"sightingu\" slavného Nessieho.",
+            "year": ""
+        },
+        {
+            "name": "Cawdorský hrad",
+            "city": "Nairn",
+            "region": "Highlands",
+            "desc_short": "Cawdorský hrad je malebný hrad ve skotském stylu, který se nachází na venkově v blízkosti města Nairn.",
+            "desc": "Hrad je obklopen rozsáhlými zahradami a je známý svým historickým významem a legendami. Můžete si prohlédnout jeho slavnou věžovitou bránu, procházet se zahradami plnými květin a navštívit interiér, kde je vystavena sbírka uměleckých děl a historických artefaktů.",
+            "year": "14. století"
+        },
+        {
+            "name": "Dunrobin Castle",
+            "city": "Golspie",
+            "region": "Highlands",
+            "desc_short": "Dunrobin Castle je majestátní hrad ve stylu francouzských zámků, který se nachází na pobřeží Severního moře.",
+            "desc": "Tento působivý hrad je známý svou rozlehlou zahradou, elegantními věžemi a honosným interiérem. Navštěvníci si mohou prohlédnout nádherně zdobené místnosti, vyhlídkovou terasu s výhledem na moře a nechat se unést atmosférou minulosti.",
+            "year": "13. století"
+        },
+        {
+            "name": "Palác v Knóssu",
+            "city": "Heraklion",
+            "region": "Kréta",
+            "desc_short": "Palác v Knóssu je starověká minojská palácová komplex, která byla centrem minojské civilizace na Krétě.",
+            "desc": "Tento rozlehlý palác je považován za jedno z nejvýznamnějších archeologických nalezišť na Krétě. Navštěvníci si mohou prohlédnout palácové zdi, fresky a další artefakty, které odhalují bohatství a sofistikovanost minojské kultury.",
+            "year": "1900 př. n. l."
+        },
+        {
+            "name": "Samarijský kaňon",
+            "city": "Chania",
+            "region": "Kréta",
+            "desc_short": "Samarijský kaňon je nejdelší kaňon v Evropě a nabízí úchvatnou přírodní scenérii pro pěší túry a prozkoumávání.",
+            "desc": "Tato přírodní atrakce je obklopena divokou krásou a poskytuje unikátní zážitek pro milovníky přírody. Turisté mohou procházet úzkými soutěskami, obdivovat vodopády a pozorovat endemickou flóru a faunu v této chráněné oblasti.",
+            "year": ""
+        },
+        {
+            "name": "Knosský palác",
+            "city": "Sitia",
+            "region": "Kréta",
+            "desc_short": "Knosský palác je další významný minojský palácový komplex na Krétě, který byl centrem moci v minojské civilizaci.",
+            "desc": "Tento palác byl objeven relativně nedávno a jeho výzkumy přispěly k lepšímu porozumění minojské kultuře. Navštěvníci si mohou prohlédnout jeho slavnou fresku \"Princezna z Knóssu\" a další archeologické pozůstatky.",
+            "year": "1900 př. n. l."
+        },
+        {
+            "name": "Elafonská pláž",
+            "city": "Chania",
+            "region": "Kréta",
+            "desc_short": "Elafonská pláž je malebná pláž s jemným pískem a tyrkysovými vodami, která nabízí ideální místo pro odpočinek a relaxaci.",
+            "desc": "Tato pláž je oblíbenou destinací pro turisty, kteří hledají klid a krásnou přírodu. Okolní útesy a krystalově čisté vody poskytují ideální podmínky pro potápění a šnorchlování.",
+            "year": ""
+        },
+        {
+            "name": "Hrad Neuschwanstein",
+            "city": "Füssen",
+            "region": "Bavorsko",
+            "desc_short": "Hrad Neuschwanstein je slavným bavorským hradem, který je považován za vzor pro pohádkové hrady.",
+            "desc": "Tento impozantní hrad, postavený králem Ludvíkem II., je známý svou romantickou architekturou, nádhernými interiéry a malebným umístěním v Alpách. Je jedním z nejpopulárnějších turistických atrakcí v Německu.",
+            "year": "1869"
+        },
+        {
+            "name": "Katedrála Nanebevzetí Panny Marie a sv. Kora",
+            "city": "Drážďany",
+            "region": "Bavorsko",
+            "desc_short": "Katedrála Nanebevzetí Panny Marie a sv. Kora je ikonickou dominantou města Drážďany a jednou z největších katedrál v Německu.",
+            "desc": "Tato gotická katedrála je považována za architektonický skvost a nabízí bohatě zdobené interiéry, včetně slavného oltáře s obrazem Vzkříšení.",
+            "year": "1388"
+        },
+        {
+            "name": "Hrad Linderhof",
+            "city": "Ettal",
+            "region": "Bavorsko",
+            "desc_short": "Hrad Linderhof je královský palác v bavorském stylu, který byl postaven králem Ludvíkem II. jako jeho letní sídlo.",
+            "desc": "Tento extravagantní palác je obklopen rozsáhlými zahradami, fontánami a romantickými pavilony. Jeho interiéry jsou bohatě zdobené a návštěvníci si mohou prohlédnout například Královský sál, Zrcadlovou síň a Módní salón.",
+            "year": "1874"
+        },
+        {
+            "name": "Náměstí Marienplatz",
+            "city": "Mnichov",
+            "region": "Bavorsko",
+            "desc_short": "Náměstí Marienplatz je centrálním náměstím v Mnichově a jedním z nejživějších míst ve městě.",
+            "desc": "Toto historické náměstí je obklopené krásnými budovami, jako je radnice s proslulým orlojem, a je centrem kulturního a obchodního dění v Mnichově. Je známé také pro své trhy a slavnosti.",
+            "year": "12. století"
+        }
+    ]
+}
